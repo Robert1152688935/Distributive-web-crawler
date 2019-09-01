@@ -1,2 +1,2 @@
 # Distributive-web-crawler
-分布式爬虫原理解析 -- 以爬取租房信息为例
+Scrapy-redis 分布式网络爬虫 -- 租房网站巴乐兔
